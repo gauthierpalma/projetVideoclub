@@ -13,18 +13,25 @@
 			</arguments>
 		</buildCommand>
 		<buildCommand>
+<<<<<<< HEAD
 >>>>>>> e818aed0d3e83cd57a289a12a72be2f597848d6d
-			<name>org.eclipse.jdt.core.javabuilder</name>
-			<arguments>
-			</arguments>
-		</buildCommand>
-		<buildCommand>
+=======
+<<<<<<< HEAD
 			<name>org.springframework.ide.eclipse.core.springbuilder</name>
+=======
+>>>>>>> 75f30dbf42c0b7eb1878d01730661a393210a8c2
+			<name>org.eclipse.jdt.core.javabuilder</name>
+>>>>>>> e818aed0d3e83cd57a289a12a72be2f597848d6d
 			<arguments>
 			</arguments>
 		</buildCommand>
 		<buildCommand>
 			<name>org.springframework.ide.eclipse.boot.validation.springbootbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
