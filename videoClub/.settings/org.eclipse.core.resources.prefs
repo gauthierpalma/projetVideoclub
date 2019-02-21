@@ -1,4 +1,11 @@
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=joyce
 eclipse.preferences.version=1
+<<<<<<< HEAD
+=======
+encoding//src/java=UTF-8
+>>>>>>> e818aed0d3e83cd57a289a12a72be2f597848d6d
 encoding//src/main/java=UTF-8
 encoding//src/main/resources=UTF-8
 encoding/<project>=UTF-8
