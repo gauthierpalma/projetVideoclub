@@ -6,11 +6,14 @@
 	</projects>
 	<buildSpec>
 		<buildCommand>
+<<<<<<< HEAD
 			<name>org.eclipse.wst.common.project.facet.core.builder</name>
 			<arguments>
 			</arguments>
 		</buildCommand>
 		<buildCommand>
+=======
+>>>>>>> 15ce7e23a7081947f888b60de38eb15dfdacc4b7
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
 			</arguments>
